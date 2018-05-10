@@ -1,5 +1,4 @@
-# game-review-evaluation-sheet
-## a template for proper game reviews
+# a template for proper game reviews
 
 ### all credit goes to:
 steam user Ayronias
