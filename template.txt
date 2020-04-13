@@ -5,7 +5,7 @@
 ☐ Decent
 ☐ Bad
 ☐ Don‘t look too long at it
-☐ Paint.exe
+☐ MS-DOS
 
 ---{Gameplay}---
 ☐ Very good
