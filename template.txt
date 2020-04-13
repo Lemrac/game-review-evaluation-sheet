@@ -54,11 +54,11 @@
 ☐ You‘ll need a second live for grinding
 
 ---{Story}---
-☐ Story?
-☐ Text or Audio floating around
+☐ No Story
+☐ Some lore
 ☐ Average
 ☐ Good
-☐ Lovley
+☐ Lovely
 ☐ It‘ll replace your life
 
 ---{Game Time}---
