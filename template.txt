@@ -1,83 +1,117 @@
+---{PC Requirements}---
+☐ Check if you can run paint
+☐ Potato
+✔ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+
 ---{Graphics}---
 ☐ You forget what reality is
 ☐ Beautiful
+✔ An original artistic direction
 ☐ Good
 ☐ Decent
 ☐ Bad
-☐ Don‘t look too long at it
-☐ MS-DOS
+☐ 8-bit
 
 ---{Gameplay}---
-☐ Very good
-☐ Good
+☐ Top notch
+☐ Memorable
+✔ Satisfying
+☐ Great
 ☐ It‘s just gameplay
 ☐ Mehh
 ☐ Watch paint dry instead
 ☐ Just don't
 
----{Audio}---
-☐ Eargasm
-☐ Very good
-☐ Good
-☐ Not too bad
-☐ Bad
-☐ I'm now deaf
-
----{Audience}---
-☐ Kids
-☐ Teens
-☐ Adults
-☐ All
-
----{PC Requirements}---
-☐ Check if you can run paint
-☐ Potato
-☐ Decent
-☐ Fast
-☐ Rich boi
-☐ Ask NASA if they have a spare computer
-
 ---{Difficulity}---
 ☐ Just press 'W'
 ☐ Easy
-☐ Significant brain usage
-☐ Easy to learn / Hard to master
+☐ Average
+✔ Easy to learn / Hard to master
 ☐ Difficult
 ☐ Dark Souls
 
----{Grind}---
-☐ Nothing to grind
-☐ Only if u care about leaderboards/ranks
-☐ Isn't necessary to progress
-☐ Average grind level
-☐ Too much grind
-☐ You‘ll need a second live for grinding
+---{Audio}---
+☐ Eargasm
+☐ Memorable
+✔ Good
+☐ Mehh
+☐ Trivial and repetitive
+☐ Like listening to white noise
+☐ Deafening
 
 ---{Story}---
-☐ No Story
-☐ Some lore
+☐ Masterpiece
+☐ Well written
+☐ Great
 ☐ Average
-☐ Good
-☐ Lovely
-☐ It‘ll replace your life
+✔ Some lore
+☐ Dry
+☐ No Story
 
 ---{Game Time}---
 ☐ Long enough for a cup of coffee
-☐ Short
+✔ Short
 ☐ Average
 ☐ Long
 ☐ To infinity and beyond
 
----{Price}---
-☐ It’s free!
-☐ Worth the price
-☐ If u have some spare money left
-☐ Not recommended
-☐ You could also just burn your money
+---{Grind}---
+☐ You‘ll need a second life
+☐ A worthy challenge
+☐ Average grind level
+✔ Isn't necessary to progress
+☐ Only if u care about leaderboards/ranks
+☐ Nothing to grind
+
+---{Replayability}---
+☐ Infinitely
+✔ Definitely
+☐ With mods or cheats
+☐ Only for achievements
+☐ One time experience
 
 ---{Bugs}---
-☐ Never heard of
+✔ Never heard of
 ☐ Minor bugs
 ☐ Can get annoying
-☐ ARK: Survival Evolved
-☐ The game itself is a big terrarium for bugs
+☐ Black screens, crashes, and more...
+☐ A bug terrarium
+
+---{Audience}---
+☐ All
+☐ Kids
+☐ Teens
+✔ Adults
+
+---{Price}---
+☐ It’s free!
+☐ Underpriced
+☐ Worth the price
+☐ If u have some spare money left
+✔ Overpriced
+☐ You could also just burn your money
+
+---{Expectations}---
+☐ Masterpiece
+☐ Better than expected
+✔ As advertised
+☐ Missing features
+☐ Scam
+☐ Completely different game
+
+---{Final Rating}---
+☐ 10
+☐ 9
+☐ 8
+✔ 7
+☐ 6
+☐ 5
+☐ 4
+☐ 3
+☐ 2
+☐ 1
+
+---{My Comments}---
