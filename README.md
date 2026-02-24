@@ -1,6 +1,6 @@
 # a template for proper game reviews
 
-### all credit goes to:
+### credit for original version:
 steam user Ayronias
 https://steamcommunity.com/profiles/76561198035603788/recommended/527230/
 
