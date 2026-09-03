@@ -9,7 +9,7 @@
 ---{Graphics}---
 ☐ You forget what reality is
 ☐ Beautiful
-✔ An original artistic direction
+☐ An original artistic direction
 ☐ Good
 ☐ Decent
 ☐ Bad
@@ -18,7 +18,7 @@
 ---{Gameplay}---
 ☐ Top notch
 ☐ Memorable
-✔ Satisfying
+☐ Satisfying
 ☐ Great
 ☐ It‘s just gameplay
 ☐ Mehh
@@ -29,14 +29,14 @@
 ☐ Just press 'W'
 ☐ Easy
 ☐ Average
-✔ Easy to learn / Hard to master
+☐ Easy to learn / Hard to master
 ☐ Difficult
 ☐ Dark Souls
 
 ---{Audio}---
 ☐ Eargasm
 ☐ Memorable
-✔ Good
+☐ Good
 ☐ Mehh
 ☐ Trivial and repetitive
 ☐ Like listening to white noise
@@ -47,13 +47,13 @@
 ☐ Well written
 ☐ Great
 ☐ Average
-✔ Some lore
+☐ Some lore
 ☐ Dry
 ☐ No Story
 
 ---{Game Time}---
 ☐ Long enough for a cup of coffee
-✔ Short
+☐ Short
 ☐ Average
 ☐ Long
 ☐ To infinity and beyond
@@ -62,19 +62,19 @@
 ☐ You‘ll need a second life
 ☐ A worthy challenge
 ☐ Average grind level
-✔ Isn't necessary to progress
+☐ Isn't necessary to progress
 ☐ Only if u care about leaderboards/ranks
 ☐ Nothing to grind
 
 ---{Replayability}---
 ☐ Infinitely
-✔ Definitely
+☐ Definitely
 ☐ With mods or cheats
 ☐ Only for achievements
 ☐ One time experience
 
 ---{Bugs}---
-✔ Never heard of
+☐ Never heard of
 ☐ Minor bugs
 ☐ Can get annoying
 ☐ Black screens, crashes, and more...
@@ -84,20 +84,20 @@
 ☐ All
 ☐ Kids
 ☐ Teens
-✔ Adults
+☐ Adults
 
 ---{Price}---
 ☐ It’s free!
 ☐ Underpriced
 ☐ Worth the price
 ☐ If u have some spare money left
-✔ Overpriced
+☐ Overpriced
 ☐ You could also just burn your money
 
 ---{Expectations}---
 ☐ Masterpiece
 ☐ Better than expected
-✔ As advertised
+☐ As advertised
 ☐ Missing features
 ☐ Scam
 ☐ Completely different game
@@ -106,7 +106,7 @@
 ☐ 10
 ☐ 9
 ☐ 8
-✔ 7
+☐ 7
 ☐ 6
 ☐ 5
 ☐ 4
